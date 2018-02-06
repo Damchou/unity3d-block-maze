@@ -1,0 +1,121 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.080 seconds
+Platform assembly: C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mjnii\Documents\Unity Projects\Mini_Platformer\Neon Platformer_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Plane (1)') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 0.809117 ms
+UnityException: Tag:  is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
+  at RenderDisableScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag:  is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
+  at RenderDisableScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 43f4 -> priority: 1 
+  Thread -> id: f70 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Plane (1)') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.452392 ms
+
+Unloading 617 unused Assets to reduce memory usage. Loaded Objects now: 5837.
+Total: 4.260696 ms (FindLiveObjects: 0.369491 ms CreateObjectMapping: 0.236491 ms MarkObjects: 1.777321 ms  DeleteObjects: 1.869694 ms)
+
+UnityException: Tag:  is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
+  at RenderDisableScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag:  is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
+  at RenderDisableScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yol
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yolo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yoloh
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yoloha
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yolohan
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yolohans
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yolohanso
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yolohansol
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+yolohansolo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+bgm stopped
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Done'd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Done'd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
